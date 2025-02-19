@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:On March 15\, I'll be meeting with the networking team at 2 PM to discuss the security architecture.\nThe discussion will take place at the downtown office.
+DTEND:20250315T150510Z
+DTSTART:20250315T140510Z
+SUMMARY:General Event
+UID:1a7479f8-e8fc-4191-be21-887e7bdffe1d@1a74.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Company annual retreat is planned for April 5th at 10 AM. Everyone should be ready!
+DTEND:20250405T110510Z
+DTSTART:20250405T100510Z
+SUMMARY:General Event
+UID:3236472d-7526-4728-a724-af086b6dfb15@3236.org
+END:VEVENT
+END:VCALENDAR
